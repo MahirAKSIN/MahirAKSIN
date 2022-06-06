@@ -2,7 +2,7 @@
 <h3 align="center">ASP.Net ,.Dotnet ,C#</h3>
 
 - 💬 Ask me about **C#,.Dotnet,.ASP.Net**
-
+- 👯 I’m looking to collaborate on .NET Core
 - 📫 How to reach me **mahr_aksn@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
