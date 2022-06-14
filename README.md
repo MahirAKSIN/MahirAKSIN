@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mahir AKsin</h1>
-<h3 align="center">ASP.Net ,.Dotnet ,C#</h3>
+<h3 align="center">ASP.Net ,.Dotnet ,C#,Vb.NET</h3>
 
 - 💬 Ask me about **C#,.Dotnet,.ASP.Net**
 - 👯 I’m looking to collaborate on .NET Core
